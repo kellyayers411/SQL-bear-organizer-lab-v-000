@@ -1,3 +1,1 @@
-    CREATE TABLE bears (
-      name TEXT,
-      );
+    CREATE TABLE bears ( name TEXT );
